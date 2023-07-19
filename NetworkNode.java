@@ -1,9 +1,7 @@
-package Homework5;
+
 
 /**
  * @author Pushkar Taday
- * SBU ID:114375166
- * Recitation:04
  */
 
 /**
