@@ -1,10 +1,6 @@
 /**
  * @author Pushkar Taday
- * SBU ID:114375166
- * Recitation:04
  */
-
-package Homework5;
 
 /**
  * This class represent exception for all the occurrences of empty node.
