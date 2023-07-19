@@ -38,12 +38,13 @@ $ cd NintendoNetwork
 ## Usage
 To compile 
 ```bash
-$ javac Main.java
+$ javac NintendoNetwork.java
 ```
 Run the DeliveryListManager application from the command line.
 ```bash
-$ java Main
+$ java NintendoNetwork
 ```
+Keep in my mind to create a package name and include the package name in all the classes.
 
 ## Required Classes
 ### NetworkNode
